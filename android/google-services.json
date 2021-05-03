@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "798955549864",
+    "project_id": "speakifypdf",
+    "storage_bucket": "speakifypdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798955549864:android:d1ccd9f6c7b84178d47e9d",
+        "android_client_info": {
+          "package_name": "com.example.speakify_pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798955549864-fk55i1va7s33og6pjatcrspj22r1fteb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speakify_pdf",
+            "certificate_hash": "16c19c456760c521437d0a7f70bbe639c7153b7b"
+          }
+        },
+        {
+          "client_id": "798955549864-fpe2qshf25kl63s1rc3dbqoutmepqk1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbj9cHAoibEoKxMA2XatIo1jJ4_wxFBwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798955549864-fpe2qshf25kl63s1rc3dbqoutmepqk1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
