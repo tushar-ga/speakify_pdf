@@ -1,4 +1,4 @@
-# speakify_pdf
+# Speakify_pdf
 
 Our AIM is to develop an application which anyone can use to read a book/pdf with the comfort of a voice assistant.
 
