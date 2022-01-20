@@ -14,3 +14,6 @@ Using Flutter for App Framework and AWS Services for Backend, we have developed 
 6. Book section can also be accessed by page number.
 7. Voice commands can be given to specify the section the book to be read.
 8. If User is not satisfied with the voice assistant response, a list of other possible book sections is also provided.
+
+# Demo
+Chevk out the demo of the project [here](https://drive.google.com/file/d/13qICHBpjIfM9DwcjE55LFXQz1AbD-9JO/view?usp=sharing)
